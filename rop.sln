@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 15 for Windows Desktop
+VisualStudioVersion = 15.0.28307.902
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "rop", "rop.vcxproj", "{601C41C2-A7D9-4B9D-9E1D-40CAD6095784}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{601C41C2-A7D9-4B9D-9E1D-40CAD6095784}.Debug|x86.ActiveCfg = Debug|Win32
+		{601C41C2-A7D9-4B9D-9E1D-40CAD6095784}.Debug|x86.Build.0 = Debug|Win32
+		{601C41C2-A7D9-4B9D-9E1D-40CAD6095784}.Release|x86.ActiveCfg = Release|Win32
+		{601C41C2-A7D9-4B9D-9E1D-40CAD6095784}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {6D09A056-F927-4CE2-A4DD-DE31F54109A8}
+	EndGlobalSection
+EndGlobal
